@@ -9,5 +9,5 @@ JAsset是基于XAsset4.0魔改实现的Unity热更新资源管理插件，将用
 | 将UnityWebRequest换为System.Net的HttpCleint或HttpWebRequest | -        |
 | 实现分包功能，可以按需下载                                  | -        |
 | 修改配置面板，使其支持分包                                  | -        |
+| 自定义特定资源是否打ab，不打的话也可以通过该接口使用指定资源                       | -        |
 | 修复XAsset4.0底层一些奇奇怪怪的Bug                          | -        |
-
